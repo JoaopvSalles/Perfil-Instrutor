@@ -1,7 +1,6 @@
 # Projeto Perfil-Instrutor
 
 # Sobre
-
 Site que mostra os dados de um instrutor: `foto`, `nome`, `função`, `empresa que trabalha` e `links para suas redes sociais`.
 
 ![print1](https://user-images.githubusercontent.com/64203633/162043159-fc295684-e4e2-4cc2-8eaf-24f18bc3e6a9.png)
